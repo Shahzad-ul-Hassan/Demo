@@ -1,2 +1,4 @@
 # Demo
-this is my first repository
+this is my first Git repository.
+Author - Shahzad ul Hassan
+
